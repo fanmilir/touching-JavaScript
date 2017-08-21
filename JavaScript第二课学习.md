@@ -5,7 +5,7 @@ Node运行环境截图：
 浏览器运行环境截图：
 ！[浏览器](https://raw.githubusercontent.com/fanmilir/GithubPic/master/Touching_JavaScript/Lesson2ChromeResult.png)
 
-!浏览器-1[](https://ws3.sinaimg.cn/large/006tNc79ly1fis4o6ja9kj31kw0xcqg9.jpg)
+![浏览器-1](https://ws3.sinaimg.cn/large/006tNc79ly1fis4o6ja9kj31kw0xcqg9.jpg)
 
 
 
