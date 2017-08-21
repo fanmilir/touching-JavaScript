@@ -1,3 +1,16 @@
+Node运行环境截图：
+！[Node](https://raw.githubusercontent.com/fanmilir/GithubPic/master/Touching_JavaScript/Lesson2NodeResult.png)
+
+![Node-1](https://ws4.sinaimg.cn/large/006tNc79ly1fis4n6t7qbj31kw0vk7la.jpg)
+浏览器运行环境截图：
+！[浏览器](https://raw.githubusercontent.com/fanmilir/GithubPic/master/Touching_JavaScript/Lesson2ChromeResult.png)
+
+!浏览器-1[](https://ws3.sinaimg.cn/large/006tNc79ly1fis4o6ja9kj31kw0xcqg9.jpg)
+
+
+
+
+
 ## 遇到的问题：
 
 ### 1、	浏览器运行代码发现的情况：
