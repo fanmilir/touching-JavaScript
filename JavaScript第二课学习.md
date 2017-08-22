@@ -13,6 +13,8 @@
   * [作业-2](#2.2)
   
   * [作业-3](#2.3)
+  
+  * [附加作业](#2.4)
 
 * [其他学习](#3)
 
@@ -112,7 +114,7 @@
 
 #### 浏览器运行环境截图：
 
-![浏览器-1](https://ws3.sinaimg.cn/large/006tNc79ly1fis4o6ja9kj31kw0xcqg9.jpg)
+![浏览器-1](https://ws4.sinaimg.cn/large/006tNc79ly1fis8485nzsj31kw0xcqg9.jpg)
 
 
 <h3 id="2.2">作业要求-2</h3>
@@ -267,7 +269,9 @@ https://raw.githubusercontent.com/fanmilir/GithubPic/master/Touching_JavaScript/
 
 #### 4.另外想问，能不能推荐个MAC用的保存网页（好几屏）为图片的好办法？用chrome能不能实现？
 
->【附加作业要求】
+
+<h3 id="2.4">附加作业</h3>
+
 
 >1. 在github上部署自己的静态网页，把网页地址放在总结文档里。
 
